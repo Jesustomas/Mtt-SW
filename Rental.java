@@ -1,5 +1,5 @@
 package videoStore;
-
+//Estamos haciendo comentarios
 public class Rental {
 	private Movie _movie;
 	private int _daysRented;

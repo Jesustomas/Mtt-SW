@@ -1,5 +1,5 @@
 package videoStore;
-
+//Estamos haciendo comentarios
 public class Movie {
 	
 	public static final int CHILDRENS=2;
